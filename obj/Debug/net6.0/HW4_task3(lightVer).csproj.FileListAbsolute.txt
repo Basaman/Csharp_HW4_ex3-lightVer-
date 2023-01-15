@@ -1,0 +1,15 @@
+D:\GB\C#\HW\HW_4\HW4_task3(lightVer)\bin\Debug\net6.0\HW4_task3(lightVer).exe
+D:\GB\C#\HW\HW_4\HW4_task3(lightVer)\bin\Debug\net6.0\HW4_task3(lightVer).deps.json
+D:\GB\C#\HW\HW_4\HW4_task3(lightVer)\bin\Debug\net6.0\HW4_task3(lightVer).runtimeconfig.json
+D:\GB\C#\HW\HW_4\HW4_task3(lightVer)\bin\Debug\net6.0\HW4_task3(lightVer).dll
+D:\GB\C#\HW\HW_4\HW4_task3(lightVer)\bin\Debug\net6.0\HW4_task3(lightVer).pdb
+D:\GB\C#\HW\HW_4\HW4_task3(lightVer)\obj\Debug\net6.0\HW4_task3(lightVer).csproj.AssemblyReference.cache
+D:\GB\C#\HW\HW_4\HW4_task3(lightVer)\obj\Debug\net6.0\HW4_task3(lightVer).GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C#\HW\HW_4\HW4_task3(lightVer)\obj\Debug\net6.0\HW4_task3(lightVer).AssemblyInfoInputs.cache
+D:\GB\C#\HW\HW_4\HW4_task3(lightVer)\obj\Debug\net6.0\HW4_task3(lightVer).AssemblyInfo.cs
+D:\GB\C#\HW\HW_4\HW4_task3(lightVer)\obj\Debug\net6.0\HW4_task3(lightVer).csproj.CoreCompileInputs.cache
+D:\GB\C#\HW\HW_4\HW4_task3(lightVer)\obj\Debug\net6.0\HW4_task3(lightVer).dll
+D:\GB\C#\HW\HW_4\HW4_task3(lightVer)\obj\Debug\net6.0\refint\HW4_task3(lightVer).dll
+D:\GB\C#\HW\HW_4\HW4_task3(lightVer)\obj\Debug\net6.0\HW4_task3(lightVer).pdb
+D:\GB\C#\HW\HW_4\HW4_task3(lightVer)\obj\Debug\net6.0\HW4_task3(lightVer).genruntimeconfig.cache
+D:\GB\C#\HW\HW_4\HW4_task3(lightVer)\obj\Debug\net6.0\ref\HW4_task3(lightVer).dll
